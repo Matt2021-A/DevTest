@@ -1,0 +1,11 @@
+/mnt/c/Users/MatthewR/source/helloWorld/bin/Debug/netcoreapp3.0/helloWorld
+/mnt/c/Users/MatthewR/source/helloWorld/bin/Debug/netcoreapp3.0/helloWorld.deps.json
+/mnt/c/Users/MatthewR/source/helloWorld/bin/Debug/netcoreapp3.0/helloWorld.runtimeconfig.json
+/mnt/c/Users/MatthewR/source/helloWorld/bin/Debug/netcoreapp3.0/helloWorld.runtimeconfig.dev.json
+/mnt/c/Users/MatthewR/source/helloWorld/bin/Debug/netcoreapp3.0/helloWorld.dll
+/mnt/c/Users/MatthewR/source/helloWorld/bin/Debug/netcoreapp3.0/helloWorld.pdb
+/mnt/c/Users/MatthewR/source/helloWorld/obj/Debug/netcoreapp3.0/helloWorld.csprojAssemblyReference.cache
+/mnt/c/Users/MatthewR/source/helloWorld/obj/Debug/netcoreapp3.0/helloWorld.AssemblyInfoInputs.cache
+/mnt/c/Users/MatthewR/source/helloWorld/obj/Debug/netcoreapp3.0/helloWorld.AssemblyInfo.cs
+/mnt/c/Users/MatthewR/source/helloWorld/obj/Debug/netcoreapp3.0/helloWorld.dll
+/mnt/c/Users/MatthewR/source/helloWorld/obj/Debug/netcoreapp3.0/helloWorld.pdb
